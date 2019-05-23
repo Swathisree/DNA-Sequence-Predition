@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# SampleRepo
-=======
-# Projects
->>>>>>> 334e8ae3ca94f2880013d18c9835c4053f28f49a
+## This repository contains implementations of
+# Logistic Regression, SVM models on Predicting DNA sequence on a Kaggle dataset, and 
+# A Sun burst Visualization of an open food facts data repository
