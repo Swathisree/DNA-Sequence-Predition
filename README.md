@@ -8,10 +8,10 @@
 ##### You require `Python 3.6`, `Numpy`, `Pandas`, `cvxopt` to run the program. If you do not have these libraries installed, follow the instructions below to install the required libraries
 # Installation
 ##### Installing libraries:
-..* $ `sudo apt-get install python3.6`
-..* $ `pip install numpy`
-..* $ `pip install pandas`
-..* $ `pip install cvxopt`
+..* `sudo apt-get install python3.6`
+..* `pip install numpy`
+..* `pip install pandas`
+..* `pip install cvxopt`
 ##### Download datasets:
 ##### Download all files from- https://www.kaggle.com/c/advanced-learning-models-2018/data`
 ##### Save it on same directory of the python scripts 
